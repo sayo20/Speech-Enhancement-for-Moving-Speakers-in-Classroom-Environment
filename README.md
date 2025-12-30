@@ -1,4 +1,5 @@
 # Speech Separation for Hearing-Impaired Children in the Classroom
+###DATA WILL BE MADE AVAILABLE AFTER THE PAPER HAS BEEN PUBLISHED###
 
 This repo is for our paper titled Speech Separation for Hearing-Impaired Children in the Classroom
 
